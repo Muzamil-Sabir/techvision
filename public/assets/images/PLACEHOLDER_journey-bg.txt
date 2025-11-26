@@ -1,0 +1,53 @@
+🖼️ PLACEHOLDER FOR: Journey Background Image
+================================================
+
+📏 Recommended Dimensions: 1920 x 1080 pixels (Full HD)
+📦 Format: JPG or WebP
+💾 Max File Size: 300KB (optimized)
+📍 This image appears in: Journey Section (as subtle parallax background)
+
+🎨 CONTENT SUGGESTIONS:
+- Abstract technology pattern
+- Digital network/grid background
+- Modern office space (subtle)
+- City skyline at night
+- Geometric tech pattern
+- Minimalist tech wallpaper
+
+⚠️ IMPORTANT: This image will be used at 5% opacity (very subtle), so:
+- Choose images with interesting patterns or textures
+- Don't worry too much about specific details
+- Abstract patterns work best
+- Tech-themed backgrounds are ideal
+
+🔍 SEARCH KEYWORDS FOR FREE IMAGES:
+→ "abstract technology background"
+→ "digital network pattern"
+→ "tech grid wallpaper"
+→ "modern office interior"
+→ "technology pattern dark"
+→ "circuit board background"
+
+🌐 FREE IMAGE SOURCES:
+• Unsplash: https://unsplash.com/s/photos/technology-background
+• Pexels: https://www.pexels.com/search/abstract%20technology/
+• Pixabay: https://pixabay.com/images/search/technology%20pattern/
+
+💡 TIP: Choose an image that:
+- Has good contrast and texture
+- Is not too busy (will be subtle anyway)
+- Complements the dark background
+- Has tech or modern aesthetic
+
+✅ AFTER DOWNLOADING:
+1. Optimize the image at https://tinypng.com/
+2. Rename to: journey-bg.jpg
+3. Place in: assets/images/ folder
+4. Refresh your website - you'll see subtle parallax effect!
+
+🎯 CURRENT STATUS: Placeholder - Website works without this image, but adding it will add depth to the Journey section!
+
+---
+To replace this file with your actual image, simply:
+1. Delete this text file
+2. Add your optimized journey-bg.jpg image here

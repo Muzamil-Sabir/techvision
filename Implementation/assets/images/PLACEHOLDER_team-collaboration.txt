@@ -1,0 +1,46 @@
+📸 PLACEHOLDER FOR: Team Collaboration Image
+================================================
+
+📏 Recommended Dimensions: 1200 x 1200 pixels (or 1200 x 1600)
+📦 Format: JPG or WebP
+💾 Max File Size: 200KB (optimized)
+📍 This image appears in: About Us Section
+
+🎨 CONTENT SUGGESTIONS:
+- Team working together around a table
+- Developers collaborating on a project
+- Diverse tech professionals in meeting
+- Office environment with team members
+- Modern workspace with happy employees
+
+🔍 SEARCH KEYWORDS FOR FREE IMAGES:
+→ "software development team"
+→ "tech team collaboration"
+→ "developers working together"
+→ "office teamwork technology"
+→ "diverse technology professionals"
+
+🌐 FREE IMAGE SOURCES:
+• Unsplash: https://unsplash.com/s/photos/team-collaboration
+• Pexels: https://www.pexels.com/search/team%20collaboration/
+• Pixabay: https://pixabay.com/images/search/teamwork/
+
+💡 TIP: Choose an image that shows:
+- Professional setting
+- Bright, well-lit environment
+- Happy, engaged people
+- Modern office or workspace
+- Colors that complement cyan/purple theme
+
+✅ AFTER DOWNLOADING:
+1. Optimize the image at https://tinypng.com/
+2. Rename to: team-collaboration.jpg
+3. Place in: assets/images/ folder
+4. Refresh your website to see it!
+
+🎯 CURRENT STATUS: Placeholder - Website works without this image, but adding it will enhance the About Us section significantly!
+
+---
+To replace this file with your actual image, simply:
+1. Delete this text file
+2. Add your optimized team-collaboration.jpg image here

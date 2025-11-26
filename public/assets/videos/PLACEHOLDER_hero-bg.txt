@@ -1,0 +1,80 @@
+🎬 PLACEHOLDER FOR: Hero Background Video
+================================================
+
+📏 Recommended Dimensions: 1920 x 1080 pixels (Full HD)
+📦 Format: MP4 (H.264 codec recommended)
+💾 Max File Size: 5MB (optimized/compressed)
+⏱️ Duration: 10-30 seconds (will loop automatically)
+🎞️ Frame Rate: 30 fps
+📍 This video appears in: Hero Section (Home page background)
+
+🎨 CONTENT SUGGESTIONS:
+- Abstract digital particles flowing
+- Matrix-style code animation
+- Futuristic network connections
+- Technology-themed motion graphics
+- Floating geometric shapes
+- Digital transformation animation
+- Circuit board with light effects
+- Data stream visualization
+
+💡 VIDEO CHARACTERISTICS:
+- Should loop seamlessly
+- Dark or medium-toned (will be dimmed to 15% opacity)
+- Smooth, non-distracting motion
+- Tech/futuristic theme
+- Professional quality
+
+🔍 SEARCH KEYWORDS FOR FREE VIDEOS:
+→ "abstract technology animation"
+→ "digital particles background"
+→ "tech matrix animation"
+→ "futuristic network loop"
+→ "code streaming background"
+→ "technology motion background"
+
+🌐 FREE VIDEO SOURCES:
+• Pexels Videos: https://www.pexels.com/videos/search/technology/
+• Coverr: https://coverr.co/videos/technology
+• Pixabay Videos: https://pixabay.com/videos/search/technology/
+• Videezy: https://www.videezy.com/free-video/technology
+
+🎥 VIDEO COMPRESSION TIPS:
+If your video is larger than 5MB, compress it:
+
+ONLINE TOOLS:
+• Clipchamp: https://clipchamp.com/en/video-compressor/
+• FreeConvert: https://www.freeconvert.com/video-compressor/
+• CloudConvert: https://cloudconvert.com/
+
+SETTINGS FOR COMPRESSION:
+- Resolution: 1920x1080 (keep it Full HD)
+- Bitrate: 800-1500 kbps
+- Format: MP4 (H.264)
+- Audio: Can be removed (video will be muted anyway)
+
+✅ AFTER DOWNLOADING:
+1. Compress video to under 5MB using tools above
+2. Rename to: hero-bg.mp4
+3. Place in: assets/videos/ folder
+4. Refresh your website - video will autoplay in background!
+
+⚠️ IMPORTANT NOTES:
+• Video will autoplay on desktop (browsers require 'muted' attribute)
+• Mobile devices might not autoplay (background will show instead)
+• Video adds visual appeal but website works perfectly without it
+• Keep file size small for faster loading
+
+🎯 CURRENT STATUS: Placeholder - Website works without video, but adding it will create a stunning cinematic hero section!
+
+BROWSER SUPPORT:
+✓ Chrome - Full support
+✓ Firefox - Full support
+✓ Safari - Full support (may require user interaction on iOS)
+✓ Edge - Full support
+
+---
+To replace this file with your actual video, simply:
+1. Delete this text file
+2. Add your optimized hero-bg.mp4 video here
+3. Video will automatically play when you load the website!
